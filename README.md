@@ -1,2 +1,2 @@
 # Two-stage-epigenetic-clock
-## details see report.pdf
+## details see pdf file
